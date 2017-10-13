@@ -1,0 +1,23 @@
+{
+  "name": "thaico",
+  "version": "0.1.0",
+  "description": "Ссылки на мебель:\r Америка: \t\t\t\t\t\tFurniture_USA.html\r Италия: \t\t\t\t\t\tFurniture_Italy.html\r Россия: \t\t\t\t\t\tFurniture_Russia.html\r Других стран: \t\t\tFurniture_Other.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yakoart",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakoArt/Thaico.git"
+  },
+  "keywords": []
+}
